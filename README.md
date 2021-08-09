@@ -3,8 +3,6 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 This project is clone of Flixster.
 
-Submitted by: **Omar Yu**
-
 Time spent: **12** hours spent in total
 
 
